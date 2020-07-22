@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cb74ec56_297989bf",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1013302
+      },
+      "writtenOn": "2020-07-22T09:40:20Z",
+      "side": 1,
+      "message": "Needs an empty line before Change-Id line, otherwise this is interpreted as a footer. Thus the space after https:.",
+      "revId": "b3b87d9ee00b46871a0a596e4b22881265441de7",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
